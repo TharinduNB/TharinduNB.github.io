@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tharindu Bandara / Site Title"
+title                    : "Tharindu Bandara / Welcome to my page"
 title_separator          : "-"
 name                     : &name "Tharindu Bandara"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "Tharindu Bandara"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Umeå,Sweden"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=cSsynJcAAAAJ&hl=en"
