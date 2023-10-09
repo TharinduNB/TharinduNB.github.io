@@ -12,8 +12,8 @@ output:
       - "style.css"
 ---
 <style>
-body {
-  font-family: Roboto, sans-serif;
+ body {
+  font-family: 'Roboto Sans Serif', sans-serif;
 }
 </style>
 
