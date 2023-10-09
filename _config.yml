@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tharindu Bandara"
 title_separator          : "-"
-name                     : &name "Tharindu Bandara"
+name                     : &name "Tharindu's Homepage"
 description              : &description "personal description"
 url                      : https://TharinduNB.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
