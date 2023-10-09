@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "**Tharindu** Bandara / Welcome to my page"
+title                    : "Tharindu Bandara"
 title_separator          : "-"
 name                     : &name "Tharindu Bandara"
 description              : &description "personal description"
