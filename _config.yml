@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Tharindu Bandara"
   avatar           : "my_profile.png"
-  bio              : "PhD student|Umeå University, Sweden"
+  bio              : "PhD student| Umeå University, Sweden"
   location         : "Umeå, Sweden"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=cSsynJcAAAAJ&hl=en"
-  email            :  tharindu.bandara@umu.se
-  researchgate     :  "https://www.researchgate.net/profile/Tharindu-Bandara-4"
+  email            :  "tharindu.bandara@umu.se"
+  researchgate     : "https://www.researchgate.net/profile/Tharindu-Bandara-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/i/flow/login?redirect_after_login=%2FtharinduTW"
   vine             :
   weibo            :
   xing             :
