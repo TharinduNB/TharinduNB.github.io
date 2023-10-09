@@ -9,23 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-
-<html lang="en" style="width:100%; height:100%;">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>MY Resume</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
 </head>
-  <body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url= [files/paper1.pdf](https://github.com/TharinduNB/TharinduNB.github.io/blob/master/files/paper1.pdf) &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
-  </body>
+<body>
+    <iframe src="https://docs.google.com/gview?url=https://github.com/TharinduNB/TharinduNB.github.io/raw/master/files/paper1.pdf&embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
+</body>
 </html>
 
 
 
 
 
-Education
+
+<!--- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -72,4 +73,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams --->
