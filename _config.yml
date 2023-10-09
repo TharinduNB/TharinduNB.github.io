@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tharindu Bandara"
   avatar           : "my_profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Umeå,Sweden"
+  bio              : "PhD student|Umeå University, Sweden"
+  location         : "Umeå, Sweden"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=cSsynJcAAAAJ&hl=en"
-  email            :
+  email            :  tharindu.bandara@umu.se
   researchgate     :  "https://www.researchgate.net/profile/Tharindu-Bandara-4"
   uri              :
   bitbucket        :
