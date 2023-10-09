@@ -13,7 +13,7 @@ output:
 ---
 <style>
 body {
-  font-family: Arial, sans-serif;
+  font-family: Roboto, sans-serif;
 }
 </style>
 
