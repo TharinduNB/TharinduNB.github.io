@@ -6,7 +6,16 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+output: 
+  html_document:
+    css: 
+      - "style.css"
 ---
+<style>
+body {
+  font-family: Arial, sans-serif;
+}
+</style>
 
 I’m a PhD student of Marine Ecology. My research focuses on effect of climate change on marine food webs especially in the sub-arctic Baltic Sea ecosystem. As a marine ecologist, I have deep intrest in aquatic sciences and particulary intrested in marine food web ecology, fisheries managment and aquaculture. Prior to start my PhD, I completed my Msc studies in Aquaculture from [Nord University,Norway](https://www.nord.no/en). I am originally from Sri Lanka where I completed my Bsc studies in fisheries management.<br />
 In my spare time, I enjoy photographing, playing cricket. <br />
